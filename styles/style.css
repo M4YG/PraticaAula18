@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav-item {
+    padding: 0px 8px;
+}
+.carousel-item img {
+    height: 800px;
+    margin-top: 20px;
+    object-fit: cover;
+}
+#figurecontainer {
+    margin: 0;
+}
+#rodape {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
